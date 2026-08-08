@@ -59,7 +59,19 @@ Using Excel pivot tables, the dataset was analyzed to identify:
 * Focus investment on high-demand products within each region
 
 
+## 📌 Dashboard Preview
+Below is a visual summary of the analysis:
 
+![Dashboard](dashboard.png)
+
+
+## 📊 Key Insights Visuals
+
+### Top 10 Customers
+![Top 10 Customers](Top_10_Customers.png)
+
+### Revenue by Category
+![Revenue by Category](Revenue_by_Category.png)
 ## 🛠️ Tools Used
 
 * Microsoft Excel (Data Cleaning & Analysis)
@@ -77,5 +89,5 @@ Using Excel pivot tables, the dataset was analyzed to identify:
 
 ## ✍️ Author
 
-Panu Damilola
+Panu Damilola V.
 Aspiring Data Analyst
